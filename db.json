@@ -1,7 +1,7 @@
 {
   "callType":1,
-  "messageToLog":'',
-  "serviceUrl":'',
+  "messageToLog":"",
+  "serviceUrl":"",
   "status":{
     "isError":true
   }
