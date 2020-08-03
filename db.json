@@ -1,0 +1,8 @@
+{
+  callType:1,
+  messageToLog:'',
+  serviceUrl:'',
+  status:{
+    isError:true
+  }
+}
